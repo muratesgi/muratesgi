@@ -31,12 +31,12 @@ Murat is here. I'm a AWS Solution Architect | Cloud & DevOps Engineer | IT Speci
  <li>Selenium</li>
  </ul>
 
-# <a href="https://www.linkedin.com/in/hasanhuseyinakkoca" target="_blank">
-#    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/hasanhuseyinakkoca">
+# <a href="-----------------" target="_blank">
+#    <img src="--------------------------------">
 # </a>
-# <a href="mailto:akkocah2@gmail.com" target="_blank">
-#    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:akkocah2@gmail.com">
+# <a href="mailto:----------------------" target="_blank">
+#    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:-------------">
 # </a>
-# <!--<a href="https://medium.com/@kendentry" target="_blank">
-#    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@kendentry">
+# <!--<a href="https://medium.com-----------" target="_blank">
+#    <img src="https://img.sh---------------------" alt="https://medium.com/---------">
 # </a> -->
