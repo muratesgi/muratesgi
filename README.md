@@ -30,13 +30,3 @@ Murat is here. I'm a AWS Solution Architect | Cloud & DevOps Engineer | IT Speci
  <li>Ansible</li>
  <li>Selenium</li>
  </ul>
-
-# <a href="-----------------" target="_blank">
-#    <img src="--------------------------------">
-# </a>
-# <a href="mailto:----------------------" target="_blank">
-#    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:-------------">
-# </a>
-# <!--<a href="https://medium.com-----------" target="_blank">
-#    <img src="https://img.sh---------------------" alt="https://medium.com/---------">
-# </a> -->
