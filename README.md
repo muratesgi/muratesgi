@@ -4,7 +4,7 @@
 ## Hi there 👋
 Murat is here. I'm an AWS Solution Architect | Cloud & DevOps Engineer | IT Specialist  <img src="https://github.com/wishmike/wishmike/blob/main/aws.png" alt="aws" width=400 height=auto align="right">
 
-### 🛠  What am I use?
+### 🛠  What am I using?
 
 <ul > <strong>AWS</strong>
  <li>Cloudformation</li>
