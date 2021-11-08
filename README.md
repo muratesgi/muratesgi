@@ -28,5 +28,6 @@ Murat is here. I'm an AWS Solution Architect | Cloud & DevOps Engineer | IT Spec
  <li>Grafana</li>
  <li>Prometheus</li>
  <li>Ansible</li>
+ <li>Terraform</li>
  <li>Selenium</li>
  </ul>
